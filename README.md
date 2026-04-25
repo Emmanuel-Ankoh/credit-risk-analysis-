@@ -1,4 +1,4 @@
-# credit-risk-analysis-
+# credit-risk-analysis
 Credit risk prediction model using Python; Scikit-learn. Demonstrates anomaly detection, feature engineering, and risk scoring methodology, directly applicable to crypto exchange transaction monitoring and counterparty risk assessment for Bitfinex Risk Department.
 ##  Purpose
 This project demonstrates **risk analysis and predictive modeling** skills for financial applications. Built for the Bitfinex Risk Department application.
