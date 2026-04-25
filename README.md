@@ -12,7 +12,7 @@ Home Credit Default Risk (Kaggle) - 32581 loan applications with default indicat
 - Employment stability
 - Family size impact on repayment
 
-## 🤖 Model Performance
+## Model Performance
 - **ROC-AUC Score**: ~0.88 (Strong risk separation)
 - **Features used**: 9 numerical +  4 categorical risk indicators
 - **Algorithm**: Random Forest (interpretable, handles imbalance)
