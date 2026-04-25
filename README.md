@@ -24,7 +24,7 @@ This same framework applies to:
 - Fraud transaction identification
 
 ## Visualizations
-- Risk factor distributions
+- Risk analysis distributions
 - Feature importance (top risk drivers)
 - ROC curve & confusion matrix
 
